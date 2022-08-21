@@ -1,3 +1,4 @@
+// https://www.codechef.com/SNCKPB17/problems/SNSOCIAL/
 #include<iostream>
 #include<vector>
 #include<queue>
